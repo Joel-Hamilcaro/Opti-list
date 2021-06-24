@@ -1,4 +1,4 @@
-# OptiList  
+# Opti-list  
 
 <img alt="C" src="https://img.shields.io/badge/programming_language%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>   
 
